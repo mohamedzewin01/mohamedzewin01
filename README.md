@@ -1,17 +1,14 @@
 ### Hi there 👋
-## Mohamed zewin
+### Hi there 👋, my name is Mohamed zewin
+#### I am Flutter developer
+![I am Flutter developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**mohamedzewin01/mohamedzewin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated Junior Flutter Developer with a passion for building efficient, scalable, and user-friendly mobile applications. Committed to writing clean, maintainable code and implementing best practices to enhance app performance and user experience. Eager to learn, innovate, and contribute to impactful projects while continuously improving skills and staying up to date with the latest technologies.
 
-Here are some ideas to get you started:
+Skills: Dart | Flutter | State Management (bloc, cubit) | API integration (http, Dio, retrofit) | Local Storage (shared preferences, hive, sqflite) | Responsive | unit & widget Testing | firebase | design pattern | Clean Architecture | git & GitHub | SOLID Principles | dependency injection (get_it, injectable)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
