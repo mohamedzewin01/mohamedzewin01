@@ -5,7 +5,8 @@
 
 Motivated Junior Flutter Developer with a passion for building efficient, scalable, and user-friendly mobile applications. Committed to writing clean, maintainable code and implementing best practices to enhance app performance and user experience. Eager to learn, innovate, and contribute to impactful projects while continuously improving skills and staying up to date with the latest technologies.
 
-Skills: Dart | Flutter | State Management (bloc, cubit) | API integration (http, Dio, retrofit) | Local Storage (shared preferences, hive, sqflite) | Responsive | unit & widget Testing | firebase | design pattern | Clean Architecture | git & GitHub | SOLID Principles | dependency injection (get_it, injectable)
+Skills: 
+* Dart * Flutter * State Management (bloc, cubit) *API integration (http, Dio, retrofit) * Local Storage (shared preferences, hive, sqflite) * Responsive * unit & widget Testing * firebase * design pattern * Clean Architecture * git & GitHub * SOLID Principles * dependency injection (get_it, injectable)
 
 - 🔭 I’m currently working on this page. 
 
