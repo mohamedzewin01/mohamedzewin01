@@ -57,8 +57,30 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 
 ### 🚀 Projects
 
-- **E-Commerce App**: A scalable, user-friendly shopping app with seamless state management and integration with Firebase.
-- **Portfolio App**: A personal portfolio showcasing my projects and skills, implemented with **Flutter**.
+- **Supermarket App**  
+  Web app for showcasing supermarket products and offers with a complete admin panel and backend integration.
+
+- **Admin Dashboard**  
+  Flutter Desktop application for real-time data and user management with a responsive UI.
+
+- **Delivery App**  
+  Driver-side Flutter app enabling real-time order tracking and seamless delivery flow.
+
+- **Flowery**  
+  E-commerce Flutter app for browsing and ordering flowers with user login and order tracking.
+
+- **Flowery Rider**  
+  Delivery app linked to Flowery for managing and accepting flower delivery orders.
+
+- **Mawjood**  
+  Local marketplace app for artisans and sellers to showcase products and manage stores.
+
+- **Quizzy**  
+  Mobile quiz app allowing timed exams, result tracking, and detailed performance review.
+
+- **E-Commerce App**  
+  A scalable, user-friendly shopping app with seamless state management and integration with Firebase.
+
 
 ---
 
