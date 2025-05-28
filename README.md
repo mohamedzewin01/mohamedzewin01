@@ -97,9 +97,10 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 ### ☕ Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/mohamedzewin01">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
+<a href="https://www.buymeacoffee.com/mohamedzewin01" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+
   <a href="https://ko-fi.com/mohamedzewin01">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
   </a>
