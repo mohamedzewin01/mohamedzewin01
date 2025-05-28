@@ -45,7 +45,7 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/mohammed-zewin" target="blank">
+  <a href="www.linkedin.com/in/mohammed-zewin-55927226a" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://github.com/mohamedzewin01" target="blank">
