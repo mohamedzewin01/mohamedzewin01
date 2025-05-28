@@ -45,10 +45,10 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/mohammed-zewin-55927226a" target="blank">
+  <a href="https://www.linkedin.com/in/mohammed-zewin-55927226a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/mohamedzewin01" target="blank">
+  <a href="https://github.com/mohamedzewin01" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
@@ -64,11 +64,7 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 
 ### 📊 GitHub Highlights
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-zewin-55927226a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedzewin01&show_icons=true&theme=radical&hide=cpp,c" alt="GitHub Stats" />
