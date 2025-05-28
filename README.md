@@ -104,7 +104,7 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
       </a>
     </td>
     <td>
-      <a href="https://ko-fi.com/mohamedzewin01" target="_blank">
+      <a href="https://ko-fi.com/mohamedzewin" target="_blank">
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
       </a>
     </td>
