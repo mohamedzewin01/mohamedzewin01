@@ -65,7 +65,7 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 ### 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedzewin01&theme=radical&row=1&column=6" alt="Trophies" />
+  <img src="https://www.linkedin.com/in/mohammed-zewin-55927226a/&theme=radical&row=1&column=6" alt="Trophies" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedzewin01&show_icons=true&theme=radical&hide=cpp,c" alt="GitHub Stats" />
