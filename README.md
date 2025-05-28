@@ -4,7 +4,7 @@
 
 ![ChatGPT Image 3 مايو 2025، 02_36_36 ص](https://github.com/user-attachments/assets/fb15de73-230f-4137-b544-38fc32a93b52)
 
-Motivated Junior Flutter Developer with a passion for building efficient, scalable, and user-friendly mobile applications. Committed to writing clean, maintainable code and implementing best practices to enhance app performance and user experience. Eager to learn, innovate, and contribute to impactful projects while continuously improving skills and staying up to date with the latest technologies.
+Motivated Flutter Developer with a passion for building efficient, scalable, and user-friendly mobile applications. Committed to writing clean, maintainable code and implementing best practices to enhance app performance and user experience. Eager to learn, innovate, and contribute to impactful projects while continuously improving skills and staying up to date with the latest technologies.
 
 Skills: 
 * Dart
