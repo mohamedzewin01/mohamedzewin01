@@ -56,7 +56,9 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 ---
 
 ### 🚀 Projects
-
+- **RemindUs**  
+  An app for managing shared events with automatic reminders and multi-user invitations.
+  
 - **Supermarket App**  
   Web app for showcasing supermarket products and offers with a complete admin panel and backend integration.
 
