@@ -23,13 +23,28 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 
 #### 👨‍💻 Programming Languages
 - **Dart**
+- **Flutter**
 
 #### 🌟 Frameworks & Tools
-- **Flutter** for UI Development
-- **Bloc/Cubit** for State Management
-- **Firebase** for Backend Services
-- **Dio/Retrofit** for API Integration
-- **SharedPreferences, Hive, Sqflite** for Local Storage
+- **Flutter** for UI Development  
+- **Bloc / Cubit** for State Management  
+- **Firebase** (Authentication, Firestore, Storage, Messaging, Crashlytics)  
+- **Dio / Retrofit** for API Integration  
+- **SharedPreferences**, **Hive**, **Sqflite** for Local Storage  
+
+#### 🧰 Dev Tools & CI/CD
+- **Git**, **GitHub**, **GitHub Actions** for Version Control & Automation  
+- **Jira** for Project Management  
+- **Figma** for UI/UX Design  
+- **Slack** for Team Communication  
+
+#### 🚀 Soft Skills
+- Clean Architecture  
+- SOLID Principles  
+- Responsive & Adaptive UI  
+- Problem Solving & Debugging  
+- Team Collaboration & Agile Workflow
+
 
 #### 🎨 Design & Architecture
 - **Clean Architecture** 
