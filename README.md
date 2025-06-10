@@ -38,7 +38,7 @@ Motivated **Flutter Developer** dedicated to delivering efficient, scalable, and
 - **Figma** for UI/UX Design  
 - **Slack** for Team Communication  
 
-#### 🚀 Soft Skills
+#### 🚀 
 - Clean Architecture  
 - SOLID Principles  
 - Responsive & Adaptive UI  
